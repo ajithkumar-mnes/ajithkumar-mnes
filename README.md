@@ -1,6 +1,10 @@
 # Hi 👋, I'm Ajithkumar Harikrishnan
 
-## 🚀 Senior Software Engineer at [MNCodelabs](https://mncodelabs.com) ####(MN Engineering solutions, inc)
+<h2>
+  🚀 Senior Software Engineer at
+  <a href="https://mncodelabs.com">MNCodelabs</a>
+  <small><i>(MN Engineering Solutions, Inc.)</i></small>
+</h2>
 
 Passionate Software Engineer with **4+ years of experience** designing and building scalable software solutions. I specialize in **System Architecture**, **Backend Development**, **Frontend Development**, **Database Design**, and **Cloud-Native Applications**.
 
