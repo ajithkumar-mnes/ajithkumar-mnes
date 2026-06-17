@@ -94,7 +94,7 @@ Passionate Software Engineer with **4+ years of experience** designing and build
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/ajithkumar-mnes/ajithkumar-mnes">
+  <a href="https://github.com/ajithkumar-mnes">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://in.linkedin.com/in/ajithkumar-harikrishnan-20b46b219">
