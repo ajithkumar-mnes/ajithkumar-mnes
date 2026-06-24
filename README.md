@@ -2,7 +2,7 @@
 
 <h2>
   🚀 Senior Software Engineer at
-  <a href="https://mncodelabs.com">MNCodelabs</a>
+  <a href="https://mngroups.com">MNGroups</a>
   <small><i>(MN Engineering Solutions, Inc.)</i></small>
 </h2>
 
